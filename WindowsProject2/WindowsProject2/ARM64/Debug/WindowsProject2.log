@@ -1,0 +1,23 @@
+﻿  FileName.c
+C:\Users\kim\source\repos\WindowsProject2\WindowsProject2\FileName.c(81,9): warning C4028: 정식 매개 변수 3이(가) 선언과 다릅니다.
+C:\Users\kim\source\repos\WindowsProject2\WindowsProject2\FileName.c(93,35): error C2065: 'IDI_ICON3': 선언되지 않은 식별자입니다.
+C:\Users\kim\source\repos\WindowsProject2\WindowsProject2\FileName.c(96,22): error C2065: 'IDR_MENU1': 선언되지 않은 식별자입니다.
+C:\Users\kim\source\repos\WindowsProject2\WindowsProject2\FileName.c(149,16): error C2065: 'ID_32781': 선언되지 않은 식별자입니다.
+C:\Users\kim\source\repos\WindowsProject2\WindowsProject2\FileName.c(152,16): error C2065: 'ID_32782': 선언되지 않은 식별자입니다.
+C:\Users\kim\source\repos\WindowsProject2\WindowsProject2\FileName.c(149,3): error C2051: case 식이 상수가 아닙니다.
+C:\Users\kim\source\repos\WindowsProject2\WindowsProject2\FileName.c(152,3): error C2051: case 식이 상수가 아닙니다.
+C:\Users\kim\source\repos\WindowsProject2\WindowsProject2\FileName.c(209,19): error C2065: 'IDC_BUTTON1': 선언되지 않은 식별자입니다.
+C:\Users\kim\source\repos\WindowsProject2\WindowsProject2\FileName.c(210,18): error C2065: 'IDD_DIALOG2': 선언되지 않은 식별자입니다.
+C:\Users\kim\source\repos\WindowsProject2\WindowsProject2\FileName.c(216,19): error C2065: 'IDC_BUTTON2': 선언되지 않은 식별자입니다.
+C:\Users\kim\source\repos\WindowsProject2\WindowsProject2\FileName.c(217,18): error C2065: 'IDD_DIALOG2': 선언되지 않은 식별자입니다.
+C:\Users\kim\source\repos\WindowsProject2\WindowsProject2\FileName.c(224,18): error C2065: 'IDD_DIALOG2': 선언되지 않은 식별자입니다.
+C:\Users\kim\source\repos\WindowsProject2\WindowsProject2\FileName.c(231,18): error C2065: 'IDD_DIALOG2': 선언되지 않은 식별자입니다.
+C:\Users\kim\source\repos\WindowsProject2\WindowsProject2\FileName.c(238,18): error C2065: 'IDD_DIALOG2': 선언되지 않은 식별자입니다.
+C:\Users\kim\source\repos\WindowsProject2\WindowsProject2\FileName.c(245,18): error C2065: 'IDD_DIALOG2': 선언되지 않은 식별자입니다.
+C:\Users\kim\source\repos\WindowsProject2\WindowsProject2\FileName.c(252,18): error C2065: 'IDD_DIALOG2': 선언되지 않은 식별자입니다.
+C:\Users\kim\source\repos\WindowsProject2\WindowsProject2\FileName.c(259,18): error C2065: 'IDD_DIALOG2': 선언되지 않은 식별자입니다.
+C:\Users\kim\source\repos\WindowsProject2\WindowsProject2\FileName.c(266,18): error C2065: 'IDD_DIALOG2': 선언되지 않은 식별자입니다.
+C:\Users\kim\source\repos\WindowsProject2\WindowsProject2\FileName.c(273,18): error C2065: 'IDD_DIALOG2': 선언되지 않은 식별자입니다.
+C:\Users\kim\source\repos\WindowsProject2\WindowsProject2\FileName.c(280,18): error C2065: 'IDD_DIALOG2': 선언되지 않은 식별자입니다.
+C:\Users\kim\source\repos\WindowsProject2\WindowsProject2\FileName.c(209,3): error C2051: case 식이 상수가 아닙니다.
+C:\Users\kim\source\repos\WindowsProject2\WindowsProject2\FileName.c(216,3): error C2051: case 식이 상수가 아닙니다.

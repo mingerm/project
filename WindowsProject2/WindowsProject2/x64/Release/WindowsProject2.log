@@ -1,0 +1,11 @@
+﻿  FileName.c
+C:\Users\kim\source\repos\WindowsProject2\WindowsProject2\FileName.c(81,9): warning C4028: 정식 매개 변수 3이(가) 선언과 다릅니다.
+C:\Users\kim\source\repos\WindowsProject2\WindowsProject2\FileName.c(535,6): warning C4101: 'hdc' :참조되지 않은 지역 변수입니다.
+C:\Users\kim\source\repos\WindowsProject2\WindowsProject2\FileName.c(536,14): warning C4101: 'ps' :참조되지 않은 지역 변수입니다.
+  WindowsProject2.cpp
+LINK : warning LNK4067: 진입점이 모호합니다. 'WinMainCRTStartup'이(가) 선택됩니다.
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  WindowsProject2.vcxproj -> C:\Users\kim\source\repos\WindowsProject2\x64\Release\WindowsProject2.exe
